@@ -1,99 +1,34 @@
+ ---
+title: プロサッカー選手になるには
+date: 2021/02/04
+description:  初めての投稿になりますが、これからサッカーの事や他にも色々書いていこうと思っている
+tag: soccer
+author:　はやしじゅんぺい
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
----
+初めての投稿になりますが、これからサッカーの事や他にも色々書いていこうと思っているので宜しくお願いします！！
 
-# Markdown Examples
+私は今ジュニアのサッカースクールを見ていますが、ほぼ全員の子供達がプロサッカー選手になりたいと言っています。
 
-## h2 Heading
+プロサッカー選手になるにはどーすればいいのかなと、たまに深く考えてしまう事があります。プロになるには、、
 
-### h3 Heading
+自分を思い返してみました(^^)
 
-#### h4 Heading
+私自身もずっとプロになりたいと思い、約18年間サッカーをしてきてJのチームだけで9チーム練習参加してきましたがどこも契約できませんでした、、、笑　呼ばれて参加したのが4チームで自分から行ったのが、5チームだったかな、チャンスは少なくはなかったはずです、笑
 
-##### h5 Heading
+プロになっていく選手達に知ってる選手や対戦したことある選手などたくさんいて、正直悔しいっていうか、なんでアイツが？みたいな、俺の方が実績あるしって思ってしまう事も多々ありました。笑
 
-###### h6 Heading
+でも実際俺はプロになれてないし、負けてる。
 
-## Emphasis
+俺だって練習参加に何回も呼ばれてるのに、あと一歩なのに、何がダメなのかなって考えたけどやっぱプロになるには武器ですよね、それも絶対的な、、
+プロになる選手で実績がめちゃある選手ももちろんいるけど、そんなに実績とかなくても、とにかく足がめっちゃ速いとか、ヘディングがめっちゃ強いとか、全然ボールを失わないとか、キックがめっちゃ上手いとか、何か絶対的な武器を持ってる。
 
-**This is bold text**
+あとは、大事な時にその武器を出せるメンタリティを持ってる。
 
-_This is italic text_
+そう思うと自分は何か全部上手くできるようにやってたというか、、まぁ全部がずば抜けてればいいんですけどね、笑
+そんな選手滅多にいませんよね。
 
-~~Strikethrough~~
+練習参加とか、そーゆうチャンスの時って自分の絶対的な武器を存分に見せる事だなって感じました。
 
-## Blockquotes
+プロになりたい子供達、これなら誰にも負けませんよー、、っていう絶対的な武器を１つ身につけましょう！！！
 
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+また投稿していきますね〜
