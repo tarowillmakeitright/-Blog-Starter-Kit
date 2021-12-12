@@ -17,6 +17,7 @@ class MyDocument extends Document {
     return (
       <Html lang="jp">
         <Head>
+          <meta charset="UTF-8" />
           <meta name="robots" content="follow, index" />
           <meta name="description" content={meta.description} />
           <meta property="og:site_name" content={meta.title} />
